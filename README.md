@@ -1,2 +1,2 @@
 # webschool-magazine-IoT
-A revista dedicada ao PHP.
+A revista dedicada à Internet das Coisas.
